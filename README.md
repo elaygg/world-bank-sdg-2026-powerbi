@@ -80,7 +80,7 @@ This report directly tracks metrics aligned with **UN SDGs 4, 8, 9, 10, 11, 12, 
 
 ## Project Team
 
-* **Amir Namatov** — Team Lead & Data Architect *(Data Modeling, Star Schema, Macro Overview Page)*
+* **Amir Namatov** — Team Lead & Data Architect *(Data Modeling, Star Schema, Macro Overview Page + Defense Presentation, Report, Organization)*
 * **Maksim Blazevic** — Financial & Environmental Analyst *(Green Economy & Finance Page)*
 * **Joaquim Inácio** — Digital Connectivity Analyst *(Digital Society & Connectivity Page)*
 * **Tanjina Sumaiya** — Innovation & Tech Infrastructure Analyst *(Innovation & Infrastructure Page)*
